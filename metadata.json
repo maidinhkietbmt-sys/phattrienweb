@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Hương Đất Coffee - Tinh Hoa Đại Ngàn",
+  "description": "Trang web bán cà phê rang mộc nguyên chất 100% với phong cách Rustic/Vintage, cung cấp trải nghiệm mua sắm cà phê chuyên nghiệp.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
